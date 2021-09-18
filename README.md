@@ -25,7 +25,7 @@
 
 
 ### 移动端
-- 预览: <img src="https://xf-demo.oss-cn-chengdu.aliyuncs.com/xf-mall-free/qrcode.jpg" width="100" style="vertical-align: top;" />
+- 预览: <img src="https://xf-demo.oss-cn-chengdu.aliyuncs.com/xf-mall-free/qrcode.jpg" width="100" />
 - 官网: https://www.xunfengzhijia.com
 - 更新日志: [mobile.changelog.md](./mobile.changelog.md)
 
