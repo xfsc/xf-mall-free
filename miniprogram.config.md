@@ -32,3 +32,12 @@
 ![dashboard](https://xf-demo.oss-cn-chengdu.aliyuncs.com/xf-mall-free/3.png)
 
 
+
+### 配置完成
+
+- [微信公众平台](https://mp.weixin.qq.com)
+
+![dashboard](https://xf-demo.oss-cn-chengdu.aliyuncs.com/xf-mall-free/wxamp/finish1.png)
+![dashboard](https://xf-demo.oss-cn-chengdu.aliyuncs.com/xf-mall-free/wxamp/finish2.png)
+
+
