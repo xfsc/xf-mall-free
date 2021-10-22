@@ -12,11 +12,21 @@
 
 
 
+## 2.0.4
+
+`2021-10-21`
+
+- 🐞 优化 `pages/order/calc/index` 优化计算订单>标识
+- 🐞 优化 `components/goods/goods-hot/index` 优化商品推荐组件
+
+
+
 ## 2.0.3
 
-`2021-09-13`
+`2021-09-17`
 
 - 🐞 优化 `components/goods/goods-hot/index` 优化商品推荐组件
+- 🐞 删除 `...` 冗余代码
 
 
 
@@ -42,9 +52,16 @@
 - 🐞 废弃 `pages/cash/record/index` 提现记录（旧版）
 - 🐞 废弃 `pages/user/team/index` 我的团队（旧版）
 - 🐞 废弃 `pages/commission/record/index` 佣金记录（旧版）
-- 🐞 删除 `pages/cash/home/index` 提现主页
-- 🐞 删除 `pages/cash/record/index` 提现记录
-- 🐞 删除 `pages/cash/apply/index` 提现申请
-- 🐞 删除 `components/load-more-bf/index` 冗余代码
+- 🐞 删除 `...` 冗余代码
+
+
+
+## 2.0.0
+
+`2021-08-31`
+
+- 🐞 优化 `process.env.TARO_ENV` 使用条件编译代码
+- 🐞 优化 `components/version/index` 底部版本信息兼容免费版
+- 🐞 删除 `...` 冗余代码
 
 
